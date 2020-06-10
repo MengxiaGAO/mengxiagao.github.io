@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Psychology at the University of Hong Kong, under the supervision of [Professor Tatia M.C. Lee](https://www.psychology.hku.hk/neuropsy/lab/?page_id=368). I am interested in using functional and structural brain data and building machine learning models to predict cognitive and emotion functions in healthy and clinical populations.
+I am a PhD candidate in the Department of Psychology at the University of Hong Kong, under the supervision of [Professor Tatia M.C. Lee](https://www.psychology.hku.hk/neuropsy/lab/?page_id=368). I am interested in using functional and structural brain data and building machine learning models to predict cognitive and emotional functions in healthy and clinical populations.
 
 I received my M.E. Degree in Psychology from South China Normal University (Psychology ranks second in China) in 2017. My thesis applied the maximum uncertainty linear discriminant analysis (MLDA) to explore the changes of activity in brain networks before, during and after mental rotation task.
 
