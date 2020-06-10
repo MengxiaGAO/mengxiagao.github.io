@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - "files/CV_Mengxia Gao_20200609.pdf"
+  - /resume
 ---
 
 {% include base_path %}
