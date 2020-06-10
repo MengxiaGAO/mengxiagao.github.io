@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com.hk/citations?user=jcw_CZkAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find a full list of my publications on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=jcw_CZkAAAAJ&hl=en)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Peer-reviewed publications
+Bielczyk NZ, Ando A, Badhwar A, Caldinelli C, **Gao M**, Haugg A, Hernandez LM, Ito KL, Kessler D, …, Lurie D. (2020). Effective self-management for early career researchers in the natural and life sciences. *Neuron*, 106(2), 212-217. [PDF] ()
