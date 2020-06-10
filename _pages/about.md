@@ -12,4 +12,4 @@ I am a PhD candidate in the Department of Psychology at the University of Hong K
 
 I received my M.E. Degree in Psychology from South China Normal University (Psychology ranks second in China) in 2017. My thesis applied the maximum uncertainty linear discriminant analysis (MLDA) to explore the changes of activity in brain networks before, during and after mental rotation task.
 
-In addition, I am the Chair of the Organization for Human Brain Mapping (OHBM), Student and Postdoc Special Interest Group [Student and Postdoc Special Interest Group](https://www.ohbmtrainees.com/) in 2019-2020. This committee provides support and network for students and postdocs. We published a joint work in Neuron where we gathered helpful advice for early career researchers in self-management.
+In addition, I am the Chair of the Organization for Human Brain Mapping (OHBM), [Student and Postdoc Special Interest Group](https://www.ohbmtrainees.com/) in 2019-2020. This committee provides support and network for students and postdocs. We published a joint work in Neuron where we gathered helpful advice for early career researchers in self-management.
