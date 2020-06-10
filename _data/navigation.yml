@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
-#     url: https://mengxiagao.github.io/files/CV_Mengxia_Gao_20200609.pdf
+#    url: /cv/
+     url: https://mengxiagao.github.io/files/CV_Mengxia_Gao_20200609.pdf
 
   - title: "Publications"
     url: /publications/
