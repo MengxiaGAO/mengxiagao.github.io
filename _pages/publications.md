@@ -9,7 +9,7 @@ You can also find a full list of my publications on [my Google Scholar profile](
 
 
 ### Peer-reviewed publications
-Bielczyk NZ, Ando A, Badhwar A, Caldinelli C, **Gao M**, Haugg A, Hernandez LM, Ito KL, Kessler D, …, Lurie D. (2020). Effective self-management for early career researchers in the natural and life sciences. *Neuron*, 106(2), 212-217. [[PDF]](https://mengxiagao.github.io/files/bielczyketal2020_Neuron.pdf)
+Bielczyk NZ, Ando A, Badhwar A, Caldinelli C, **Gao M**, Haugg A, Hernandez LM, Ito KL, Kessler D, …, Lurie D. (2020). Effective self-management for early career researchers in the natural and life sciences. *Neuron*, 106(2), 212-217. [[PDF]](https://mengxiagao.github.io/files/bielczyketal2020_Neuron_copy.pdf)
 
 Shao R, Liu H-L, Huang C-M, Chen Y-L, **Gao M**, Lee S-H, Lin C, Lee TM. (2019). Loneliness and depression dissociated on parietal-centered networks in cognitive and resting states. *Psychological Medicine*, 1-11. [[PDF]](https://mengxiagao.github.io/files/shao2019_PM.pdf)
 
