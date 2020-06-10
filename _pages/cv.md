@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](http://mengxiagao.github.io/files/CV_Mengxia Gao_20200609.pdf)"
+title: "[CV](https://mengxiagao.github.io/files/CV_Mengxia%20Gao_20200609.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
