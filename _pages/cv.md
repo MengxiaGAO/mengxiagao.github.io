@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "[CV](https://mengxiagao.github.io/files/CV_Mengxia%20Gao_20200609.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[[Click here]](/files/CV_MengxiaGao_20200609.pdf) for a recent CV
 {% include base_path %}
 
 Education
