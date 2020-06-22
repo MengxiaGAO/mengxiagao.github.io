@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find a full list of my publications on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=jcw_CZkAAAAJ&hl=en).
 
+**Please Note**: Electronic preprints and articles supplied here are for individual nonprofit use, are subject to Copyright law, and may not be distributed without permission of the copyright holder.
 
 ### Peer-reviewed publications
 Bielczyk NZ, Ando A, Badhwar A, Caldinelli C, **Gao M**, Haugg A, Hernandez LM, Ito KL, Kessler D, …, Lurie D. (2020). Effective self-management for early career researchers in the natural and life sciences. *Neuron*, 106(2), 212-217. [[PDF]](https://mengxiagao.github.io/files/bielczyketal2020_Neuron_copy.pdf)
