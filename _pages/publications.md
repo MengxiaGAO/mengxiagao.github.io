@@ -10,6 +10,10 @@ You can also find a full list of my publications on [my Google Scholar profile](
 **Please Note**: Electronic preprints and articles supplied here are for individual nonprofit use, are subject to Copyright law, and may not be distributed without permission of the copyright holder.
 
 ### Peer-reviewed publications
+**Gao M**, Wong CH, Huang H, Shao R, Huang R, Chan CC, Lee TM. (2020). Connectome-based models can predict processing speed in older adults. NeuroImage, NeuroImage, 223, 117290. [[PDF]](https://mengxiagao.github.io/files/2020_NeuroImage_GaoM.pdf)
+
+**Gao M**, Shao R, Huang C-M, Liu H-L, Chen Y-L, Lee S-H, Lin C, Lee TM. (2020). The relationship between loneliness and working-memory-related frontoparietal network connectivity in people with major depressive disorder. Behavioural brain research, 393, 112776. [[PDF]](https://mengxiagao.github.io/files/2020_GaoM_BBR.pdf)
+
 Bielczyk NZ, Ando A, Badhwar A, Caldinelli C, **Gao M**, Haugg A, Hernandez LM, Ito KL, Kessler D, …, Lurie D. (2020). Effective self-management for early career researchers in the natural and life sciences. *Neuron*, 106(2), 212-217. [[PDF]](https://mengxiagao.github.io/files/bielczyketal2020_Neuron_copy.pdf)
 
 Shao R, Liu H-L, Huang C-M, Chen Y-L, **Gao M**, Lee S-H, Lin C, Lee TM. (2019). Loneliness and depression dissociated on parietal-centered networks in cognitive and resting states. *Psychological Medicine*, 1-11. [[PDF]](https://mengxiagao.github.io/files/shao2019_PM.pdf)
