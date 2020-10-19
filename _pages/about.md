@@ -14,4 +14,4 @@ I received my M.E. Degree in Psychology from South China Normal University (Psyc
 
 In addition, I am the Chair of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1) (OHBM), [Student and Postdoc Special Interest Group](https://www.ohbmtrainees.com/) in 2019-2020. This committee provides support and network for students and postdocs. We published a [joint work](https://mengxiagao.github.io/files/bielczyketal2020_Neuron_copy.pdf) in Neuron where we gathered helpful advice for early career researchers in self-management.
 
-[[Click here]](https://mengxiagao.github.io//files/CV_Mengxia_Gao_20200609.pdf) for my full CV.
+[[Click here]](https://mengxiagao.github.io//files/CV_Mengxia_Gao_20201019) for my full CV.
